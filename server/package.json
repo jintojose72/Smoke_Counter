@@ -20,5 +20,8 @@
         "request": "^2.58.0",
         "rootpath": "^0.1.2"
     },
+    "scripts": {
+        "mongodb": "cd C:/Program Files/MongoDB/Server/3.4/bin/ && mongod --dbpath C:/data/db "
+    },
     "license": "MIT"
 }
