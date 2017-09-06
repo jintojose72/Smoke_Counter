@@ -21,7 +21,8 @@
         "rootpath": "^0.1.2"
     },
     "scripts": {
-        "mongodb": "cd C:/Program Files/MongoDB/Server/3.4/bin/ && mongod --dbpath C:/data/db "
+        "mongodb": "cd C:/Program Files/MongoDB/Server/3.4/bin/ && mongod --dbpath C:/data/db",
+        "server" : "node server.js"
     },
     "license": "MIT"
 }
